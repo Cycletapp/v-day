@@ -18,7 +18,7 @@ const noMessages = [
     "Please??? 💔",
     "Ne me fais pas çaaaa...",
     "Dernière chance 😭",
-    "Tu peux pas m'attraper dans tous les cas 😜"
+    "Attrape-moi si tu peux hihi 😜"
 ]
 
 const yesTeasePokes = [

@@ -23,9 +23,9 @@ const noMessages = [
 
 const yesTeasePokes = [
     "Trop facile  ... Essaie de dire non d'abord mon doux caramel 😏",
-    "Aller, just un non... juste une fois 👀",
+    "Aller, juste un non... une fois quoi 👀",
     "Tu rates tout là 😈",
-    "Clique non ohlala !!!! 😏"
+    "Clique non ohlala !!!!"
 ]
 
 let yesTeasedCount = 0
